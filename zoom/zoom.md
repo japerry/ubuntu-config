@@ -2,7 +2,6 @@ Run ./install_zoom.sh
 
 If that fails:
 
-
 Go here to download the zoom deb file:
 https://support.zoom.us/hc/en-us/articles/204206269-Linux-Installation
 
